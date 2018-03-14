@@ -1,0 +1,23 @@
+{
+  "name": "headless-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lic121436/headless-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lic121436/headless-crawler/issues"
+  },
+  "homepage": "https://github.com/lic121436/headless-crawler#readme",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  }
+}
